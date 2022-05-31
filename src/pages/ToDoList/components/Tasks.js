@@ -25,8 +25,8 @@ const Tasks = () => {
           {!transition && (
             <Message>
               {showFinishedTasks
-                ? t("noTasksToFinished")
-                : t("noFinishedTasks")}
+                ? t("noFinishedTasks")
+                : t("noTasksToFinished")}
             </Message>
           )}
         </MainList>
