@@ -24,6 +24,9 @@ An multilingyal to-do list built using React, and local storage, with customized
 ## ✨ USAGE
 
 1. Clone this Repo to your local enviromnent
+```
+git clone https://github.com/EchoChunyuShih/todo-list-2.0-multilingual.git
+```
 
 2. Install dependencies
 
