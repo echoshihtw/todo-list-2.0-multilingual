@@ -1,11 +1,7 @@
 import styled from "styled-components";
 import { useContext } from "react";
 import { BsCardChecklist } from "react-icons/bs";
-import { Link } from "react-router-dom";
-import { useEffect } from "react";
 import { useTranslation } from "react-i18next";
-import i18next from "i18next";
-import ReactCountryFlag from "react-country-flag";
 
 import NewTask from "./components/NewTask";
 import FilterBar from "./components/FilterBar";
