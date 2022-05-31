@@ -4,8 +4,8 @@
 <div align="center">
 <img alt="react" src="https://img.shields.io/badge/React-v.17-000?&logo=react"/>  
 <img alt="npm" src="https://img.shields.io/badge/NPM-blue?logo=npm"/>
-<img alt="styled prettier" src="https://img.shields.io/badge/styled%20with-Prettier-yellow"/>
-<img alt="echo" src="https://img.shields.io/badge/Made%20by-Echo-ff69b4"/>
+<img alt="styled components" src="https://img.shields.io/badge/Styled%20Components-000?&color=DB7093&logo=styledcomponents&logoColor=white"/>
+<img alt="echo" src="https://img.shields.io/badge/Made%20by-Echo-E6E6FA"/>
 
 </div>
 
