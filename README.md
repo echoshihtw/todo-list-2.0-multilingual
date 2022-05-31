@@ -2,7 +2,7 @@
 </h1>
 
 <div align="center">
-<img alt="react" src="https://img.shields.io/badge/React-v.17-000?&logo=react"/>  
+<img alt="react" src="https://img.shields.io/badge/React-000?&logo=react"/>  
 <img alt="npm" src="https://img.shields.io/badge/NPM-blue?logo=npm"/>
 <img alt="styled components" src="https://img.shields.io/badge/Styled%20Components-000?&color=DB7093&logo=styledcomponents&logoColor=white"/>
 <img alt="echo" src="https://img.shields.io/badge/Made%20by-Echo-E6E6FA"/>
