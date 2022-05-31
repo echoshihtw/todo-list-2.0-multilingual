@@ -1,4 +1,6 @@
 {
   "finished": "afsluttet",
-  "notFinished": "udestående opgaver"
+  "notFinished": "udestående opgaver",
+  "noTasksToFinished": "ingen opgaver at afslutte",
+  "noFinishedTasks": "ingen færdige opgaver"
 }
