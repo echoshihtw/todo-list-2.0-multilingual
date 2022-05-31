@@ -11,16 +11,15 @@
 
 ## 📄 Description
 
-A to-do list built using React, storing data using local storage. Customized page transitions and alert using Vanilla
-JavaScript.
+An multilingyal to-do list built using React, and local storage, with customized page transitions.
 
 ## 🛠 Tools Used
 
-- [i18next]
+- [i18next](https://github.com/i18next/i18next)
 - [moment.js](https://momentjs.com/)
 - [uuid](https://www.npmjs.com/package/uuid)
 - [react-loader-spinner](https://mhnpd.github.io/react-loader-spinner/)
-- [styled-components]
+- [styled-components](https://www.styled-components.com/)
 
 ## ✨ USAGE
 
@@ -40,8 +39,8 @@ $ npm start
 
 ## 🥳 Live Demo
 
-<p>
+<!-- <p>
   <a href=""><img alt="codesandbox" src="https://img.shields.io/badge/open%20in%20CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white"></a>  
 </p>
 
-<img alt="demo" src="">
+<img alt="demo" src=""> -->
