@@ -20,10 +20,11 @@ const LanguageSelector = () => {
       >
         <LanguageOption value="en">🇺🇸</LanguageOption>
         <LanguageOption value="zh-CHT">🇹🇼</LanguageOption>
-        <LanguageOption value="ja-JP">🇯🇵</LanguageOption>
         <LanguageOption value="da-DK">🇩🇰</LanguageOption>
-        <LanguageOption value="it-IT">🇮🇹</LanguageOption>
+        <LanguageOption value="de-DE">🇩🇪</LanguageOption>
         <LanguageOption value="fr-FR">🇫🇷</LanguageOption>
+        <LanguageOption value="ja-JP">🇯🇵</LanguageOption>
+        <LanguageOption value="it-IT">🇮🇹</LanguageOption>
       </LanguageIconsSelector>
     </Container>
   );
