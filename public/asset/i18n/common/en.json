@@ -1,0 +1,6 @@
+{
+  "finished": "finished",
+  "notFinished": "pending tasks",
+  "noTasksToFinished": "no tasks to finish",
+  "noFinishedTasks": "no finished tasks"
+}
