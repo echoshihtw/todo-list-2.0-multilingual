@@ -1,5 +1,11 @@
 {
   "submit": "Aggungi Compito",
   "reminder": "promemoria",
-  "taskInputPlaceholder": "dai da mangiare a Goldie"
+  "taskInputPlaceholder": "dai da mangiare a Goldie",
+  "secondAgo": "secondo fa",
+  "secondsAgo": "secondi fa",
+  "minuteAgo": "minuto fa",
+  "minutesAgo": "minuti fa",
+  "hourAgo": "ora fa",
+  "hoursAgo": "ore fa"
 }

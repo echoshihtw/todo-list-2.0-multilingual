@@ -1,5 +1,11 @@
 {
   "submit": "Add Task",
   "reminder": "reminder",
-  "taskInputPlaceholder": "feed Goldie"
+  "taskInputPlaceholder": "feed Goldie",
+  "secondAgo": "second ago",
+  "secondsAgo": "seconds ago",
+  "minuteAgo": "minute ago",
+  "minutesAgo": "minutes ago",
+  "hourAgo": "hour ago",
+  "hoursAgo": "hours ago"
 }

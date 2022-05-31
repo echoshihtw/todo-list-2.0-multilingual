@@ -1,5 +1,12 @@
 {
   "submit": "indsend",
   "reminder": "rappel",
-  "taskInputPlaceholder": "nourrir Goldie"
+  "taskInputPlaceholder": "nourrir Goldie",
+  "secondAgo": "seconde",
+  "seconds": "secondes",
+  "minute": "minute",
+  "minutes": "minutes",
+  "hour": "heure",
+  "hours": "heures",
+  "ago": "il y a"
 }

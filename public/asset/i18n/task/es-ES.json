@@ -1,5 +1,12 @@
 {
   "submit": "Enviar",
-  "reminder": "påmindelse",
-  "taskInputPlaceholder": "alimentar a Goldie"
+  "reminder": "recordatorio",
+  "taskInputPlaceholder": "alimentar a Goldie",
+  "second": "segundo",
+  "seconds": "segundos",
+  "minute": "minuto",
+  "minutes": "minutos",
+  "hour": "hora",
+  "hours": "horas",
+  "ago": "hace"
 }

@@ -1,5 +1,11 @@
 {
   "submit": "indsend",
   "reminder": "påmindelse",
-  "taskInputPlaceholder": "fodre Goldie"
+  "taskInputPlaceholder": "fodre Goldie",
+  "secondAgo": "sekund siden",
+  "secondsAgo": "sekunder siden",
+  "minuteAgo": "minut siden",
+  "minutesAgo": "minuter siden",
+  "hourAgo": "time siden",
+  "hoursAgo": "timer siden"
 }

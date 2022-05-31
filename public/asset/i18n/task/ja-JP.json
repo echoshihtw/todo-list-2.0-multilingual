@@ -1,5 +1,8 @@
 {
   "submit": "追加",
   "reminder": "リマインダー",
-  "taskInputPlaceholder": "ゴールディを養う"
+  "taskInputPlaceholder": "ゴールディを養う",
+  "secsondsAgo": "秒前",
+  "minutesAgo": "分前",
+  "hoursAgo": "時間前"
 }
