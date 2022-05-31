@@ -22,6 +22,7 @@ const LanguageSelector = () => {
         <LanguageOption value="zh-CHT">🇹🇼</LanguageOption>
         <LanguageOption value="da-DK">🇩🇰</LanguageOption>
         <LanguageOption value="de-DE">🇩🇪</LanguageOption>
+        <LanguageOption value="es-ES">🇪🇸</LanguageOption>
         <LanguageOption value="fr-FR">🇫🇷</LanguageOption>
         <LanguageOption value="ja-JP">🇯🇵</LanguageOption>
         <LanguageOption value="it-IT">🇮🇹</LanguageOption>
