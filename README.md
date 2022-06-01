@@ -1,4 +1,4 @@
-<h1 align="center">Todo-List 2.0 Multilngual
+<h1 align="center"> Todo-List 2.0 Multilngual
 </h1>
 <p align="center">
   <a href="https://todo-list-v2-multilingual.vercel.app/"><img alt="codesandbox" src="https://img.shields.io/badge/open%20in%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
