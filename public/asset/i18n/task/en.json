@@ -1,4 +1,5 @@
 {
+  "errorMessage": "Task cannot be empty",
   "submit": "Add Task",
   "reminder": "reminder",
   "taskInputPlaceholder": "feed Goldie",

@@ -1,8 +1,12 @@
 {
+  "errorMessage": "タスクを空にすることはできません",
   "submit": "追加",
   "reminder": "リマインダー",
   "taskInputPlaceholder": "ゴールディを養う",
+  "secsondAgo": "秒前",
   "secsondsAgo": "秒前",
+  "minuteAgo": "分前",
   "minutesAgo": "分前",
+  "hourAgo": "時間前",
   "hoursAgo": "時間前"
 }

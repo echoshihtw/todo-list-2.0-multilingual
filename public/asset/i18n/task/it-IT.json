@@ -1,4 +1,5 @@
 {
+  "errorMessage": "L'attività non può essere vuota",
   "submit": "Aggungi Compito",
   "reminder": "promemoria",
   "taskInputPlaceholder": "dai da mangiare a Goldie",

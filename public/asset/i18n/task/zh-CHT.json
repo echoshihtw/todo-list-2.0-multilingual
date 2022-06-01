@@ -1,8 +1,12 @@
 {
+  "errorMessage": "事項不可為空白",
   "submit": "新增項目",
   "reminder": "提醒",
   "taskInputPlaceholder": "味小金",
+  "secondAgo": "秒前",
   "secondsAgo": "秒前",
+  "minuteAgo": "分鐘前",
   "minutesAgo": "分鐘前",
+  "hourAgo": "小時前",
   "hoursAgo": "小時前"
 }

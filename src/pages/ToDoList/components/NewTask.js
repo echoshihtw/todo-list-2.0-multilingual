@@ -5,7 +5,6 @@ import { TailSpin } from "react-loader-spinner";
 import { useContext } from "react";
 
 import TodoContext from "../../../context/TodoContext";
-import Task from "./Task";
 import { useTranslation } from "react-i18next";
 const moment = require("moment");
 moment.locale("zh-tw");
@@ -24,7 +23,7 @@ const NewTask = () => {
   const onSubmit = (e) => {
     e.preventDefault();
     if (newTask.title === "") {
-      setErrMsg("不可以為空值");
+      setErrMsg("! " + t("errorMessage"));
       return;
     } else {
       setLoading(true);
@@ -41,7 +40,7 @@ const NewTask = () => {
           title: "",
           dateTime: "",
         });
-      }, 1300);
+      }, 1500);
     }
   };
 
@@ -62,7 +61,9 @@ const NewTask = () => {
           />
           <TaskInput
             type="datetime-local"
-            className={`${errMsg && "err"} ${loading && "disabled-input"}`}
+            className={`
+           
+            ${loading && "disabled-input"}`}
             value={newTask.dateTime}
             min={dateTimeTodayFormattedForInput}
             disabled={loading && "disabled"}
@@ -115,7 +116,7 @@ const Container = styled.form`
 const InputGroup = styled.div`
   width: 100%;
   display: flex;
-  gap: 10px;
+  gap: 14px;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
@@ -167,12 +168,16 @@ const SubmitButton = styled.button`
   &:disabled {
     background-color: gray;
     cursor: not-allowed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 `;
 const ErrorMessage = styled.span`
-  width: 26rem;
+  width: 100%;
+  margin-left: 1rem;
   text-align: start;
   color: ${(props) => props.theme.colors.red};
-  padding-left: 0.2rem;
+  padding-left: 3px;
   font-size: small;
 `;

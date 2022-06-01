@@ -1,4 +1,5 @@
 {
+  "errorMessage": "Aufgabe darf nicht leer sein",
   "submit": "hinzufügen",
   "reminder": "Erinnerung",
   "taskInputPlaceholder": "Goldie füttern",

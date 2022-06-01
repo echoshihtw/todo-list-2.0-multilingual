@@ -1,4 +1,5 @@
 {
+  "errorMessage": "La tâche ne peut pas être vide",
   "submit": "indsend",
   "reminder": "rappel",
   "taskInputPlaceholder": "nourrir Goldie",

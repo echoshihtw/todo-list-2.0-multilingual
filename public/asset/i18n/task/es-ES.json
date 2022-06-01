@@ -1,4 +1,5 @@
 {
+  "errorMessage": "La tarea no puede estar vacía",
   "submit": "Enviar",
   "reminder": "recordatorio",
   "taskInputPlaceholder": "alimentar a Goldie",
