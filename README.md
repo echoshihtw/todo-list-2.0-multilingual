@@ -1,6 +1,8 @@
 <h1 align="center">Todo-List 2.0 Multilngual
 </h1>
-
+<p align="center">
+  <a href="https://todo-list-v2-multilingual.vercel.app/"><img alt="codesandbox" src="https://img.shields.io/badge/open%20in%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>  
+</p>
 <div align="center">
 <img alt="react" src="https://img.shields.io/badge/React-000?&logo=react"/>  
 <img alt="npm" src="https://img.shields.io/badge/NPM-blue?logo=npm"/>
@@ -11,7 +13,7 @@
 
 ## 📄 Description
 
-An multilingyal to-do list built using React, and local storage, with customized page transitions.
+A multilingyal to-do list built using React, and local storage, with customized page transitions.
 
 ## 🛠 Tools Used
 
@@ -24,6 +26,7 @@ An multilingyal to-do list built using React, and local storage, with customized
 ## ✨ USAGE
 
 1. Clone this Repo to your local enviromnent
+
 ```
 git clone https://github.com/EchoChunyuShih/todo-list-2.0-multilingual.git
 ```
@@ -42,8 +45,4 @@ $ npm start
 
 ## 🥳 Live Demo
 
-<!-- <p>
-  <a href=""><img alt="codesandbox" src="https://img.shields.io/badge/open%20in%20CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white"></a>  
-</p>
-
-<img alt="demo" src=""> -->
+<!-- <img alt="demo" src=""> -->
