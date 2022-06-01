@@ -22,7 +22,7 @@ A multilingyal to-do list built using React, and local storage, with customized 
 - [uuid](https://www.npmjs.com/package/uuid)
 - [react-loader-spinner](https://mhnpd.github.io/react-loader-spinner/)
 - [styled-components](https://www.styled-components.com/)
-
+<!-- 
 ## ✨ Usage
 
 1. Clone this Repo to your local enviromnent
@@ -42,7 +42,7 @@ $ npm i
 ```
 $ npm start
 ```
-
+ -->
 ## 📸 Screen Shots
 
 <img alt="demo" src="./public/asset/screenShots/screenShot.jpg">
