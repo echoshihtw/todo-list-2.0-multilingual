@@ -23,7 +23,7 @@ A multilingyal to-do list built using React, and local storage, with customized 
 - [react-loader-spinner](https://mhnpd.github.io/react-loader-spinner/)
 - [styled-components](https://www.styled-components.com/)
 
-## ✨ USAGE
+## ✨ Usage
 
 1. Clone this Repo to your local enviromnent
 
@@ -43,6 +43,6 @@ $ npm i
 $ npm start
 ```
 
-## 🥳 Live Demo
+## 📸 Screen Shots
 
 <img alt="demo" src="./public/asset/screenShots/screenShot.jpg">
