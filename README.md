@@ -13,7 +13,7 @@
 
 ## 📄 Description
 
-A multilingyal to-do list built using React, and local storage, with customized page transitions.
+A multilingual to-do list built using React, and local storage, and customized page transitions using vanilla JavaScript.
 
 ## 🛠 Tools Used
 
