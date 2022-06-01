@@ -45,4 +45,4 @@ $ npm start
 
 ## 🥳 Live Demo
 
-<img alt="demo" src="./public/asset/screenShots/screenShots.png">
+<img alt="demo" src="./public/asset/screenShots/screenShots.jpg">
